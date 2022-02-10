@@ -1,5 +1,7 @@
 # Basic Maven Example
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=nishanthkumarpathi_maven-basic)](https://sonarcloud.io/summary/new_code?id=nishanthkumarpathi_maven-basic)
+
 This simple Maven project is importing JaCoCo's coverage report. For multi-module project example 
 see [multi-module Maven project](../maven-multimodule/README.md)
 
